@@ -4,4 +4,4 @@
 *.swo
 .vscode
 *.dSYM
-*.md
+#*.md
